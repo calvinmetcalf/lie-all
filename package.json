@@ -1,6 +1,6 @@
 {
   "name": "lie-all",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "all of the lies",
   "main": "lib/all.js",
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "lie": "~2.0.6",
-    "lie-cast": "~0.1.1"
+    "lie-cast": "~0.1.1",
+    "lie-quickmap": "~0.1.0"
   }
 }
