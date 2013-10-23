@@ -1,5 +1,5 @@
 ```javascript
-var all = require('lia-all');
+var all = require('lie-all');
 ```
 
 ###all
