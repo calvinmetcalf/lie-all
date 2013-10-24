@@ -30,6 +30,6 @@
     "lie": "~2.0.6",
     "lie-cast": "~0.1.1",
     "lie-quickmap": "~0.1.0",
-    "lie-quickeach": "~0.1.0"
+    "lie-quickeach": "~0.1.1"
   }
 }
