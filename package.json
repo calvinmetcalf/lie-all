@@ -25,13 +25,13 @@
     "chai": "~1.8.1",
     "mocha": "~1.13.0",
     "istanbul": "~0.1.44",
-    "lie-resolve": "~0.1.0"
+    "lie-resolve": "~0.1.2"
   },
   "dependencies": {
-    "lie-cast": "~0.1.1",
     "lie-quickmap": "~0.1.0",
     "lie-quickeach": "~0.1.1",
     "lie-use": "~0.1.0",
+    "lie-cast": "~0.2.1",
     "lie": "~2.5.1"
   }
 }
